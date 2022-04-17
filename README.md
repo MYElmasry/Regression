@@ -10,4 +10,4 @@ Linear regression is a method for approximating a linear relationship between tw
     4. Updating the parameters based on the derivatives and the learning rate
     5. Repeating from 2 until the error is minimised
 ## Repository Contents
-This repository contains two examples for one feature Regression and multi features Regression. 
+This repository contains two examples for one feature Regression and multiple features Regression. 
